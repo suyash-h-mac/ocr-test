@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Test images (don't commit personal documents)
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.tiff
+*.tif
+*.bmp
+*.webp
+
+# PaddleOCR model cache
+.paddleocr/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
